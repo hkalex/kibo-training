@@ -13,8 +13,8 @@ var apiContext = require('mozu-node-sdk/clients/platform/application')();
 //   console.error(error);
 // });
 
-//const APP_ID = 'KTrain.MDCID_OdeceeSydney.1.0.0.Release';
-const APP_ID = 'KTrain.MyTheme_AlexYeung.1.0.0.Release';
+const APP_ID = 'KTrain.MDCID_OdeceeSydney.1.0.0.Release';
+//const APP_ID = 'KTrain.MyTheme_AlexYeung.1.0.0.Release';
 
 
 
@@ -28,7 +28,7 @@ adminUserClient.createUserAuthTicket({
 
   var appClient = require('mozu-node-sdk/clients/platform/application')(apiContext);
   var request = {
-    applicationKey: 'KTrain.MDCID_OdeceeSydney.1.0.0.Release'
+    applicationKey: APP_ID
   }
 
   appClient.getAppPackageNames(request).then(function (data) {
