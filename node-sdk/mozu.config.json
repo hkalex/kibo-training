@@ -1,0 +1,14 @@
+{
+  "appKey": "KTrain.MDCID_OdeceeSydney.1.0.0.Release",
+  "sharedSecret": "994c85175a394ff9b3a19d06751ef513",
+  "tenant": 23093,
+  "site": 33805,
+  "master-catalog": 1,
+  "baseUrl": "https://home.mozu.com/",
+  "basePciUrl": "https://payments-sb.mozu.com/",
+  "developerAccountId": 6563,
+  "developerAccount": {
+    "emailAddress": "ayeung@odecee.com.au",
+    "password": "Abc#123@8!"
+  }
+}
