@@ -4,7 +4,9 @@ Some testing code for node-sdk
 
 # Install
 
-You just need `node` and `npm`.
+1. Install `node` and `npm`.
+2. Change the values in `mozu.config.json`
+
 
 # Run it
 
