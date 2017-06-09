@@ -1,0 +1,3 @@
+APP_KEY = 'KTrain.arcjs_app_OdeceeSydney.1.0.0.Release'
+APP_ID = 'arcjs_app_OdeceeSydney'
+Shared_Secret = 'f3ed9fd2705c4c5eba4eef65e788ded5'
